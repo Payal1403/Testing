@@ -1,0 +1,7 @@
+add to wishlist
+remove all products from wishlist
+remove single product from wishlist
+add to cart from wishlist
+
+
+Undo remain
