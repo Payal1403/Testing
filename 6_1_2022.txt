@@ -1,0 +1,13 @@
+Radio button for gender 1
+@lang use
+status
+date format
+name validation can take special characters
+in search field given input has to be shown 1
+serach close button enable only while searching 1 
+password and confirm password 1
+pagination increament no 1
+delete confirmation box 1
+
+
+
